@@ -1,0 +1,26 @@
+[
+  {
+    "commend": "Desenvolvimento de features na aplicação principal e site. com React Js e Typescript, além do auxíllio de outras tecnologias como Next, Styled Components e padrões de arquitetura..",
+    "name": "Romário Lima",
+    "deg": "Engenheiro da Computação",
+      "image": "@/assets/images/image-3.png"
+  },
+  {
+    "commend": "Desenvolvimento de features na aplicação principal e site. com React Js e Typescript, além do auxíllio de outras tecnologias como Next, Styled Components e padrões de arquitetura..",
+    "name": "Romário Lima",
+    "deg": "Engenheiro da Computação",
+      "image": "@/assets/images/image-3.png"
+  },
+  {
+    "commend": "Desenvolvimento de features na aplicação principal e site. com React Js e Typescript, além do auxíllio de outras tecnologias como Next, Styled Components e padrões de arquitetura..",
+    "name": "Romário Lima",
+    "deg": "Engenheiro da Computação",
+      "image": "@/assets/images/image-3.png"
+  },
+  {
+    "commend": "Desenvolvimento de features na aplicação principal e site. com React Js e Typescript, além do auxíllio de outras tecnologias como Next, Styled Components e padrões de arquitetura..",
+    "person": "Romário Lima",
+    "deg": "Engenheiro da Computação",
+    "image": "../../assets/images/image-3.png"
+  }
+]
